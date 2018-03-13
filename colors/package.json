@@ -1,0 +1,11 @@
+{
+  "name": "ms2-brewer",
+  "version": "1.0.0",
+  "description": "MS2: Brewer Colors",
+  "scripts": {
+    "start": "http-server . -a localhost -p 8080 -c-1"
+  },
+  "dependencies": {
+    "http-server": "^0.10.0"
+  }
+}
