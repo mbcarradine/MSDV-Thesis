@@ -1,0 +1,10 @@
+source,target,value
+Adelson,SLF,4
+SLF,PA,4
+Steyer,DSCC,2
+DSCC,NV,3
+Someone,GSS,1
+GSS,NH,2
+DSCC,PA,1
+SLF,NH,3
+Adelson,GSS,1

@@ -1,0 +1,24 @@
+curl "https://api.propublica.org/campaign-finance/v1/2016/candidates/search.json?query=Wilson" -H "X-API-Key: RSPOTVHbB0QNSmx081byngmtKeqS5hQSBL7VCfnu"
+
+
+curl "https://api.propublica.org/campaign-finance/v1/2018/candidates/S6MO00305.json" -H "X-API-Key: RSPOTVHbB0QNSmx081byngmtKeqS5hQSBL7VCfnu"
+
+
+
+curl "https://api.propublica.org/campaign-finance/v1/2018/candidates/leaders/pac-total.json" -H "X-API-Key: RSPOTVHbB0QNSmx081byngmtKeqS5hQSBL7VCfnu"
+
+curl "https://api.propublica.org/campaign-finance/v1/2018/committees/C00579458/lobbyist_bundlers.json" -H "X-API-Key: RSPOTVHbB0QNSmx081byngmtKeqS5hQSBL7VCfnu"
+
+curl "https://api.propublica.org/campaign-finance/v1/2018/filings/amendments.json" -H "X-API-Key: RSPOTVHbB0QNSmx081byngmtKeqS5hQSBL7VCfnu"
+
+curl "https://api.propublica.org/campaign-finance/v1/2018/independent_expenditures.json" -H "X-API-Key: RSPOTVHbB0QNSmx081byngmtKeqS5hQSBL7VCfnu"
+
+
+curl "https://api.propublica.org/campaign-finance/v1/2004/candidates/search.json?query=Sowell" -H "X-API-Key: RSPOTVHbB0QNSmx081byngmtKeqS5hQSBL7VCfnu"
+id S2AL00087
+
+
+
+GET https://api.propublica.org/campaign-finance/v1/2004/candidates/S2AL00087
+
+curl "https://api.propublica.org/campaign-finance/v1/2004/candidates/S2AL00087" -H "X-API-Key: RSPOTVHbB0QNSmx081byngmtKeqS5hQSBL7VCfnu"
